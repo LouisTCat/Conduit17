@@ -27,6 +27,7 @@ And also ordered lists (of course):
 3. Item 3
    * Item 3a
    * Item 3b
+   <script src="https://gist.github.com/carlos8f/5785759.js"></script>
 
 ## Task Lists
 
