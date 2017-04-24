@@ -5,6 +5,8 @@ Sample Markdown
 
 This ReadMe was authored in Markdown, specifically GitHub Flavored Markdown, which includes syntax highlighting, task lists, tables, and @mentions. 
 
+https://gist.github.com/carlos8f/5785759
+
 Emoji are also supported in Markdown! :thumbsup:
 See the [Emoji Cheat Sheet](http:http://emoji-cheat-sheet.com) for the complete list.
 
